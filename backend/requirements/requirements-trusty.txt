@@ -4,7 +4,7 @@ cffi==0.8.2
 cryptography==0.8.2
 cyclone==1.1
 enum34==0.9.23
-pyOpenSSL==0.14
+pyOpenSSL==17.5.0
 pyasn1==0.1.7
 pycparser==2.10
 python_gnupg==0.3.6
