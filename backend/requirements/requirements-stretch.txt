@@ -8,7 +8,7 @@ idna==2.0
 pyOpenSSL==0.14
 pyasn1==0.1.9
 pycparser==2.14
-python_gnupg==0.3.8
+python_gnupg==0.4.4
 scrypt==0.6.1
 service_identity==14.0.0
 six==1.10.0
